@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Decapolis
 
 # Your name to show in the footer
-author: Some Person
+author: Nathan
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "n40tech.github.io/decapolis/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -177,11 +177,6 @@ footer-hover-col: "#0085A1"
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
-
-# Google Universal Analytics ID -- deprecated
-# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
-# you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
 
 ####################
 # --- Comments --- #
