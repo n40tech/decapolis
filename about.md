@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: What is Decapolis Politics?
+subtitle: What is Paulitics?
 ---
 
-Decapolis Politics is where you can share the articles you're reading with fellow students. It was built with politics in mind as it's often helpful to have the most up to date news.
+Paulitics is where you can share and find articles relating to the EDEXCEL A level politics exam.
+
+![budget day](https://www.telegraph.co.uk/multimedia/archive/02172/osborneBudget_2172845b.jpg?imwidth=680)
