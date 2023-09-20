@@ -16,9 +16,6 @@ domain: n40tech.github.io       # if you want to force HTTPS, specify the domain
 url: https://n40tech.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /paulitics     # place folder name if the site is served in a subfolder
 
-# Your name to show in the footer
-author: by Nathan
-
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
